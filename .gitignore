@@ -1,0 +1,7 @@
+dist/
+easy-installation/_env/
+easy-installation/logs/
+pretrained/
+models/
+outputs/
+data/
